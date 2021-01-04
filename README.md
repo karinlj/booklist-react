@@ -14,7 +14,7 @@ NodeJS
 
 To clone
 
-`git clone https://github.com/karinlj/reading-list-react.git`
+`https://github.com/karinlj/booklist-react`
 
 To install
 
